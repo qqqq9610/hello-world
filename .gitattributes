@@ -1,2 +1,5 @@
 SRR7989764.1.zip filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+SRR7989749.zip filter=lfs diff=lfs merge=lfs -text
+SRR7989786.zip filter=lfs diff=lfs merge=lfs -text
+SRR7989789.zip filter=lfs diff=lfs merge=lfs -text
